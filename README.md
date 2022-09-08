@@ -1,8 +1,7 @@
 
 <img src="https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg" rel="icon website status">
 
-<img src="https://img.shields.io/github/license/LucasCosta0011/
-OnePageSite.svg>" rel="icon licence">
+<img src="https://img.shields.io/github/license/lucascosta0011/OnePageSite.svg" rel="icon licence">
 
 
 # One Page Site
