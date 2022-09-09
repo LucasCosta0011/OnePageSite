@@ -14,6 +14,8 @@ Aprimorando conhecimentos básicos de HTML5, CSS3 e SEO.
 [Cetic](https://cetic.br/)
 ### Tipografria
 [Open Sans](https://fonts.google.com/specimen/Open+Sans?query=Open)
+### Emojis
+[Unicode](https://home.unicode.org/)
 
 ### Validação W3C
 [HTML](https://validator.w3.org/)
@@ -24,3 +26,9 @@ Aprimorando conhecimentos básicos de HTML5, CSS3 e SEO.
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" rel="icon HTML5">
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" rel="icon CSS3">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" rel="icon VSCode">
+
+#####
+
+ul>li*4>a Tag ul com 4 itens dentro e todos os itens com um hiperlink
+
+SHIFT + ALT + F Identação VSCode

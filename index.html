@@ -1,26 +1,42 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>HTML5 e CSS3 - One page site</title>
   <meta name="description" content="Aperfeiçoando conhecimentos de HTML5, CSS3 e SEO.">
-  <link rel="icon" href="images/favicon.png">
+  <link rel="icon" href="https://raw.githubusercontent.com/professorjosedeassis/html5css3/main/img/favicon.png">
   <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
 
-  <header>
-    <div class="container"></div>
+  <header id="inicio">
+    <div class="container">
+      <div id="logo">
+        <img src="https://raw.githubusercontent.com/professorjosedeassis/html5css3/main/img/logo.png" alt="hal 9000">
+      </div>
+      <nav>
+        <input type="checkbox" id="check">
+        <label for="check">&#x268c;</label>
+        <ul>
+          <li><a href="#inicio">Início</a></li>
+          <li><a href="#sobre">Sobre</a></li>
+          <li><a href="#conteudo">Conteúdo</a></li>
+          <li><a href="#contato">Contato</a></li>
+        </ul>
+      </nav>
+    </div>
   </header>
 
-  <main>
+  <main id="sobre">
     <div class="container">
       <h1>HTML5 e CSS3</h1>
       <h2>Você faz. Você vê. Você aprende.</h2>
     </div>
-    
+
   </main>
 
   <section>
@@ -41,19 +57,21 @@
     </div>
   </section>
 
-  <section>
+  <section id="conteudo">
     <div class="container">
       <h2>Conteúdo</h2>
       <h3>HTML5</h3>
       <h3>BOX MODEL CSS</h3>
       <h3>BREAKPOINTS</h3>
-      </div>
+    </div>
   </section>
 
-  <footer>
+  <footer id="contato">
     <div class="container">
-      
+
     </div>
   </footer>
+  <a id="topo" href="#inicio"><img src="https://raw.githubusercontent.com/professorjosedeassis/html5css3/main/img/topo.png" alt="topo do site"></a>
 </body>
+
 </html>
