@@ -29,6 +29,6 @@ Aprimorando conhecimentos básicos de HTML5, CSS3 e SEO.
 
 #####
 
-ul>li*4>a Tag ul com 4 itens dentro e todos os itens com um hiperlink
+ul>li*4>a Tag ul com 4 itens dentro e todos os itens com um hyperlink
 
 SHIFT + ALT + F Identação VSCode
