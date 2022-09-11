@@ -28,6 +28,11 @@ body{
   justify-content: space-between;
 }
 
+.flex2{
+  display: flex;
+  align-items: center;
+}
+
 .btn{
   text-decoration: none;
   color: #fff;
@@ -102,6 +107,7 @@ main{
   justify-content: center;
   align-items: center;
   text-align: center;
+  background-position: center;
 }
 
 main h1{
@@ -111,6 +117,35 @@ main h1{
 main h2{
   font-size: 1em;
   margin: 20px 0px 50px 0px;
+}
+
+/* Sobre */
+#sobre{
+  padding: 50px 0px;
+  background: url(images/background.png);
+  background-size: cover;
+  background-position: center;
+}
+
+#destaque-sobre{
+  display: none;
+}
+
+#texto-sobre{
+  color: #fff;
+  padding: 0px 10px;
+}
+
+#texto-sobre h2{
+  margin-bottom: 10px;
+}
+
+.topicos-sobre{
+  margin-top: 20px;
+}
+
+.topicos-sobre img{
+  margin-right: 10px;
 }
 
 /* Smartphone Landscape */
@@ -195,5 +230,19 @@ main h2{
 
   nav ul li a:hover{
     color: #c00000;
+  }
+
+  /* Sobre */
+  #sobre{
+    background-attachment: fixed;
+  }
+
+  #destaque-sobre{
+    display: inline;
+  }
+
+  #destaque-sobre img{
+    border-radius: 50%;
+    margin-right: 50px;
   }
 }
