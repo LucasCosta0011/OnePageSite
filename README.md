@@ -22,6 +22,9 @@ Aprimorando conhecimentos básicos de HTML5, CSS3 e SEO.
 
 [CSS](https://jigsaw.w3.org/css-validator/)
 
+### Aspect Ratio
+[Aspect Ratio](digitalrebellion.com/webapps/aspectcalc)
+
 #### Tecnologias
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" rel="icon HTML5">
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" rel="icon CSS3">
